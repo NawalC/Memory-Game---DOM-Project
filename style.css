@@ -1,0 +1,32 @@
+.container{
+  display: flex;
+  justify-content: center;
+  
+ 
+}
+
+.item {
+    display: flex;
+    justify-content: center;
+    
+}
+.deck{
+  width: 50%;  
+  background-color: #695069;
+  padding: 3rem;
+  border-radius: 4px;
+  box-shadow: 8px 9px 26px 0px rgba(46, 61, 73, 0.5);
+  margin: 8em 0 3em;
+  
+}
+
+.card{
+  height: 8rem;
+  width: 6rem;
+  margin: 0.2rem 0.2rem;
+  background: #141214;
+  color: #ffffff;
+  border-radius: 5px;
+  cursor: pointer;
+  box-shadow: 5px 2px 20px 0 rgba(46, 61, 73, 0.5)
+}
